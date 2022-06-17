@@ -85,16 +85,4 @@ dependencies {
     //Accompanist
     implementation "com.google.accompanist:accompanist-systemuicontroller:0.17.0"
 
-    //Retrofit
-    implementation "com.squareup.retrofit2:retrofit:2.9.0"
-    implementation "com.squareup.retrofit2:converter-gson:2.9.0"
-    implementation "com.squareup.okhttp3:okhttp:5.0.0-alpha.2"
-
-    //Data store
-    implementation "androidx.datastore:datastore-preferences:1.0.0"
-
-    //Encrypted shared pref
-    implementation "androidx.security:security-crypto:1.1.0-alpha03"
-
-
 }
