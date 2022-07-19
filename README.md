@@ -4,7 +4,7 @@
 
 * Jetpack Compose
 
-* MVVM & Clean Architecture
+* MVI & MVVM & Clean Architecture
 
 * Room
 
